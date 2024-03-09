@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/krishjawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishjawa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/krish jawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[krish jawa](https://www.youtube.com/channel/UCkfukZRm0WlgniQuTUZAUXQ)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkfukZRm0WlgniQuTUZAUXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krishjawa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
